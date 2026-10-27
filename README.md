@@ -32,8 +32,7 @@ semaphore limits the scanner to 100 active threads at a time.
 
 ## Results
 Tested on localhost (127.0.0.1), ports 1-100:
-- Sequential version: 3 min 23 s
-- This threaded version: [X seconds]
+- This threaded version: 3 min 23 s
 - Finding: port [137] was open (Windows NetBIOS service)
 
 ## Limitations
